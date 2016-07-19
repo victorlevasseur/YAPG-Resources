@@ -99,7 +99,7 @@ entity_template = {
             }
         },
         ["render"] = {
-            texture = "yapg/player1.png",
+            texture = "player1.png",
             current_animation = "idle",
             animations = {
                 ["idle"] = {

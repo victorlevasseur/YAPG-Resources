@@ -1,0 +1,116 @@
+<level>
+    <spawn_position x="120" y="80"/>
+    <players max_player="1">
+        <player entity_template="com.victorlevasseur.yapg.kenney.kenney_player1"/>
+    </players>
+    <objects>
+        <object id="1" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_left">
+            <parameters>
+                <x>49</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="2" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>81</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="3" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>113</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="4" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>145</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="5" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>177</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="6" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>209</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="7" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>241</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="8" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>273</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="9" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>305</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="10" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>337</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="11" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>369</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="12" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>401</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="13" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>433</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="14" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>465</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="15" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_middle">
+            <parameters>
+                <x>497</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="16" template="com.victorlevasseur.yapg.default.yapg_block_grass_top_right">
+            <parameters>
+                <x>529</x>
+                <y>251</y>
+            </parameters>
+        </object>
+        <object id="17" template="com.victorlevasseur.yapg.default.yapg_block_grass_bonus_yellow">
+            <parameters>
+                <x>427</x>
+                <y>128</y>
+            </parameters>
+        </object>
+        <object id="18" template="com.victorlevasseur.yapg.default.yapg_block_grass_bonus_yellow">
+            <parameters>
+                <x>459</x>
+                <y>128</y>
+            </parameters>
+        </object>
+    </objects>
+</level>

@@ -48,7 +48,7 @@ entity_template = {
             }
         },
         ["render"] = {
-            texture = "yapg/pack_grass.png",
+            texture = "pack_grass.png",
             current_animation = "default",
             animations = {
                 ["default"] = {
